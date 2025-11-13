@@ -27,4 +27,3 @@ This project demonstrates how to combine **API requests**, **object-oriented pro
 
 ## 📸 Screenshots
 ![Quizzler Interface](images/quiz-interface.png)
-
