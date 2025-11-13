@@ -24,3 +24,7 @@ This project demonstrates how to combine **API requests**, **object-oriented pro
    ```bash
    git clone https://github.com/your-username/quizzler-app.git
    cd quizzler-app
+
+## 📸 Screenshots
+![Quizzler Interface](images/quiz-interface.png)
+
